@@ -1,1 +1,1 @@
-This is a Jupyter File for Lession 1 of Big Data Analysis
+This is a Jupyter File for Lesson 1 of Big Data Analysis
